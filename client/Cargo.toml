@@ -24,7 +24,7 @@ thiserror = "1.0"
 futures = { version = "0.3", optional = true }
 actix = "0.12"
 rand = "0.8.3"
-hkdf = "0.11"
+hkdf = "0.12"
 pin-project = "1.0.10"
 
 [dependencies.stronghold_engine]
