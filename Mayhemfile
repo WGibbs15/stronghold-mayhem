@@ -1,4 +1,4 @@
-project: wgibbs15/stronghold
+project: stronghold
 
 # Target name (should be unique within the project)
 target: stronghold-snapshot
