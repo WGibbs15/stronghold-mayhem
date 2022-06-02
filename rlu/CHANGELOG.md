@@ -1,5 +1,28 @@
 # Changelog
 
+## \[0.4.1]
+
+- bump
+  - Bumped due to a bump in stronghold-engine.
+  - [8548949b](https://www.github.com/iotaledger/stronghold.rs/commit/8548949b691ed85ec9140f28fc7eff11126916b3) version: bump utils on 2022-06-02
+
+## \[0.4.0]
+
+- remove dependency on `engine`
+  - [b6e6977a](https://www.github.com/iotaledger/stronghold.rs/commit/b6e6977aba951c60d26ad7ef756719a93f8e5b95) fix: package description on 2022-06-02
+  - [a5130655](https://www.github.com/iotaledger/stronghold.rs/commit/a51306552a9403fd94246faa6c043bc51c927ae8) apply version updates on 2022-06-01
+  - [6ccd5bc6](https://www.github.com/iotaledger/stronghold.rs/commit/6ccd5bc6e5f09075c008ec83e8626552204cb166) fix: remove dependency on engine on 2022-06-02
+
+## \[0.3.0]
+
+- Fix package description
+  - [b6e6977a](https://www.github.com/iotaledger/stronghold.rs/commit/b6e6977aba951c60d26ad7ef756719a93f8e5b95) fix: package description on 2022-06-02
+
+## \[0.5.0]
+
+- Bump
+  - [6f1c160a](https://www.github.com/iotaledger/stronghold.rs/commit/6f1c160a3182f136868406bdca99022efd45dd67) Fix versions for covector on 2022-06-01
+
 ## \[0.2.0]
 
 - - Refactor Sink and Stream implementation for EventChannel
