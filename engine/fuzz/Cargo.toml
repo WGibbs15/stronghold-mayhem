@@ -15,7 +15,6 @@ rand = "0.8.3"
 
 [dependencies.stronghold_engine]
 path = "../"
-version = "0.4"
 
 [dependencies.iota-crypto]
 version = "0.7.0"
