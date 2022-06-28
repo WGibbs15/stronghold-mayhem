@@ -3,6 +3,7 @@ project: stronghold-mayhem
 # Target name (should be unique within the project)
 target: stronghold-fuzz
 
+
 # List of commands used to test the target
 cmds:
 
